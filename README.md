@@ -4,14 +4,20 @@ Uma ferramenta para quem acabou de instalar uma Distro Debian ou Ubunto e quer b
 
 Como usar
 
-1 - Baixe o arquivo
-2 - Transforme em executável
-chmod +x ./sometools.sh
-3 - escolha um argumento abaixo e execute
+<ol>
+<li> Baixe o arquivo </br>
+<li> Transforme em executável </li>
+  <code>chmod +x ./sometools.sh</code> </br>
+<li> Escolha um argumento abaixo e execute
+</ol>
+    <ul>
+      <li> Podendo baixar todos <code> A, all, ALL </code>
+      <li> Apenas CyberSecurity <code> os </code>
+      <li> Apenas Utilidades <code> ou </code>
+      <li> Apenas Nonsense <code> on </code>
+    </ul>
 
-Podendo baixar todos (A, all, ALL)
-Apenas CyberSecurity( os )
-Apenas Utilidades ( ou )
-Apenas Nonsense ( on )
 
-exemplo: ./sometools.sh A
+
+
+Ex: <code>./sometools.sh A</code>
